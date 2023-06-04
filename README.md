@@ -1,8 +1,3 @@
-# ProPrompt-ChatGPT-Prompts
-
-ProPrompt: Unleash the power of ChatGPT with a diverse and engaging prompt examples, perfect for inspiring creative conversations and exploring the capabilities of the model.
-
-<br />
 <div align="center">
 
   <h3 align="center">Pro-Prompt ChatGPT Prompts</h3>
@@ -25,8 +20,25 @@ Here's more:
 <!-- GETTING STARTED -->
 ## Getting Started by using the prompts
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+These are the examples. Directly copy and paste them into the ChatGPT and start using them.
+
+* Breakdown the topics in syllabus
+
+  ```
+  Engineering course content for (Course Name) including all topics covered with brief and detailed explanations, and possible examples.
+  ```
+
+  ```
+  Act as a comprehensive engineering course syllabus guide for (Course Name). Provide concise and detailed explanations for each topic covered, including possible examples for better understanding.
+  ```
+
+  ```
+  (Syllabus of any unit) This is engineering course content of (Course Name). I want you to cover all the topics and explain each of them very briefly and detailed manner and if necessary provide an example.
+  ```
+
+  ```
+  Please provide a brief and detailed explanation of each topic covered in the engineering course content of <course name>. If necessary, you may also provide an example for each topic. The following is a list of topics that you should cover: [list of topics in the course content]
+  ```
 
 * Simplify complex information
 
@@ -80,17 +92,11 @@ Project Link: [https://github.com/myselfshravan/ProPrompt-ChatGPT-Prompts](https
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+## Credits
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+These are the resources I find helpful and would like to give credit to.
 
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
+* [TheRundownAI](https://twitter.com/TheRundownAI)
+* [Rowan Cheung](https://twitter.com/rowancheung)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
