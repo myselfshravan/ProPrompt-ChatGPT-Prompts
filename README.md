@@ -24,9 +24,7 @@ These are the examples. Directly copy and paste them into the ChatGPT and start 
 
 * Breakdown the topics in syllabus
 
-  ```
-  Engineering course content for (Course Name) including all topics covered with brief and detailed explanations, and possible examples.
-  ```
+ >Engineering course content for (Course Name) including all topics covered with brief and detailed explanations, and possible examples.
 
   ```
   Act as a comprehensive engineering course syllabus guide for (Course Name). Provide concise and detailed explanations for each topic covered, including possible examples for better understanding.
