@@ -22,11 +22,9 @@ Here's more:
 
 These are the examples. Directly copy and paste them into the ChatGPT and start using them.
 
-* Breakdown the topics in syllabus
+### Breakdown the topics in syllabus
 
  > Engineering course content for (Course Name) including all topics covered with brief and detailed explanations, and possible examples.
-
- <br/>
 
  > Act as a comprehensive engineering course syllabus guide for (Course Name). Provide concise and detailed explanations for each topic covered, including possible examples for better understanding.
 
@@ -34,31 +32,31 @@ These are the examples. Directly copy and paste them into the ChatGPT and start 
 
  > Please provide a brief and detailed explanation of each topic covered in the engineering course content of (course name). If necessary, you may also provide an example for each topic. The following is a list of topics that you should cover: [list of topics in the course content]
   
-* Simplify complex information
+### Simplify complex information
 
   > Break down the (topic) into smaller, easier-to-understand parts. Use analogies and real-life examples to simplify the concept & make it more relatable.
   
-* Create a study schedule
+### Create a study schedule
 
   > I need help organizing my study time for (subject). Can you create a study schedule for me, including breaks and practice exercises?
   
-* Memorize key information
+### Memorize key information
 
   > What are the most important facts, dates, or formulas related to (topic)? Help me create a memorization technique to remember them easily.
   
-* Apply your knowledge
+### Apply your knowledge
 
   > Use your knowledge of (topic) to solve a real-world problem. Explain your thought process and share your solution.
   
-* Compare and contrast
+### Compare and contrast
 
   > Compare and contrast (concept 1) and (concept 2) to better understand their similarities and differences. Use examples to illustrate your points.
   
-* Summarize complex texts
+### Summarize complex texts
 
   > I need to read a complicated article related to (topic). Can you help me summarize the key points and takeaways from the text?
   
-* Train it to learn your writing
+### Train it to learn your writing
 
   > Analyze the text below for style, voice, and tone. Create a prompt to write a new paragraph in the same style, voice, and tone: [insert your text]
   
